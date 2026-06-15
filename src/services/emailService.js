@@ -79,3 +79,6 @@ export const completeSellerRegistration = async (sellerData) => {
     };
   }
 };
+
+export const sendOTPEmail = sendEmailOTP;
+
